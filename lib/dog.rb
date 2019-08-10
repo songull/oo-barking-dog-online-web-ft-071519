@@ -3,4 +3,5 @@ class Dog
     puts "woof!"
   end
 end
-fido.name
+fido = Dog.new
+fido.name = "Fido"
