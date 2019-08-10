@@ -6,3 +6,4 @@ class Dog
     @fido
   end
 end
+fido.name = "Fido"
